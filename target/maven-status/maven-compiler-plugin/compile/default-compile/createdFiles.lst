@@ -1,0 +1,7 @@
+br\mg\karlorms\entidades\TipoAluguel.class
+br\mg\karlorms\service\AluguelService.class
+br\mg\karlorms\entidades\Filme.class
+br\mg\karlorms\entidades\NotaAluguel.class
+br\mg\karlorms\service\AluguelService$1.class
+br\mg\karlorms\steps\AlugarFilmeSteps.class
+br\mg\karlorms\utils\DateUtils.class
